@@ -40,13 +40,13 @@
 }
 
 .input {
-  margin-left: 50px;
+  margin-left: 10px;
   border: none;
   background-color: #f1f3f5;
   border-radius: 20px;
   padding: 10px 15px;
   font-size: 16px;
-  width: 1700px;
+  width: 1300px;
 }
 
 .ctc {
@@ -54,4 +54,20 @@
   height: 200px;
   width: 200px;
   border-radius: 30%;
+  margin: 20px 20px 20px 20px;
+}
+
+.picture {
+  height: 30px;
+  width: 30px;
+}
+
+.kill {
+  margin-bottom: 10px;
+  height: 30px;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 230px;
+  border-radius: 30px;
+  font-family: Google Sans, Arial, sans-serif;
 }
