@@ -71,3 +71,8 @@
   border-radius: 30px;
   font-family: Google Sans, Arial, sans-serif;
 }
+
+.click {
+  color: rgb(93, 14, 93);
+  text-decoration: none;
+}
