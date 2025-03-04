@@ -11,12 +11,13 @@
   font-family: Google Sans, Arial, sans-serif;
   width: fit-content;
   padding-bottom: 10px;
-  padding-left: px;
-  padding-right: 10px;
+  padding-left: auto;
+  padding-right: auto;
   align-items: center;
   justify-content: center;
   font-size: 14px;
   margin-top: 20px;
+  margin: 0 auto;
 }
 
 .header {
@@ -51,7 +52,7 @@
   border-radius: 20px;
   padding: 10px 15px;
   font-size: 16px;
-  width: 1300px;
+  width: 1700px;
 }
 
 .section {
@@ -87,4 +88,20 @@
 .click {
   color: rgb(93, 14, 93);
   text-decoration: none;
+}
+
+.details {
+  margin-top: 30px;
+  font-size: 18px;
+  margin-left: 400px;
+}
+
+.history {
+  font-family: Google Sans, Arial, sans-serif;
+  text-decoration: none;
+}
+
+.red {
+  margin-top: 30px;
+  margin-left: 400px;
 }
